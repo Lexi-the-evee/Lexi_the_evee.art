@@ -13,7 +13,9 @@
         <li><a href="about me.html">about me</li>
     </ul>
     </nav>
-<p>This is an about page</p>
-<img src = wall.jpg>
+
+    <p>This is a paragraph.</p>
+
+    <img src = wall.jpg>
 </body>
 </html>
