@@ -7,7 +7,13 @@
     <title>Lexi-the-evee's art den</title>
 </head>
 <body>
-<p>This is an about me page</p>
+    <nav> 
+    <ul>
+        <li><a href="index.html">home</li>
+        <li><a href="about me.html">about me</li>
+    </ul>
+    </nav>
+<p>This is the about me page</p>
 
 </body>
 </html>
