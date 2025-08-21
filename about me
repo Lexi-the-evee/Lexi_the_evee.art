@@ -11,9 +11,9 @@
     <ul>
         <li><a href="index.html">home</li>
         <li><a href="about me.html">about me</li>
-    </ul>
-    </nav>
-<p>This is the about me page</p>
-
-</body>
+      </ul>
+       </nav>
+     <p>This is a paragraph.</p>
+      <img src = wall.jpg>
+   </body>
 </html>
